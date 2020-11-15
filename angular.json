@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angulartail"
+    }
+  },
+  "defaultProject": "angulartail",
+  "cli": {
+    "analytics": "0d09df41-a11f-4939-b1e8-f40d0277b22d"
+  }
 }
